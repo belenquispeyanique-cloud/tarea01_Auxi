@@ -5,6 +5,6 @@ Belen Quispe Yanique
 ## C.I.:
  14108598
 ---------
-## R.U:
+## Registro Unv. :
 1895385
 -------
